@@ -1,0 +1,4 @@
+{
+    "ros.distro": "humble",
+    "cmake.sourceDirectory": "/home/labiras/Documents/PlatformIO/Projects/manipulador/extra_packages/manipulator_mensages"
+}
